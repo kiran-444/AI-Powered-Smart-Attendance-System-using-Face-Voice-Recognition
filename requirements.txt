@@ -3,12 +3,11 @@ pandas
 scikit-learn
 dlib
 git+https://github.com/ageitgey/face_recognition_models
+face_recognition
 setuptools
 supabase
-storage3==0.7.7
 bcrypt
-# sengo
-pillow
+Pillow
 streamlit
 librosa
 resemblyzer
